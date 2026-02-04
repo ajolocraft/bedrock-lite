@@ -11,6 +11,10 @@
 
 body { background: var(--dark-bg); color: #f0f0f0; scroll-behavior: smooth; }
 
+a{
+    text-deciration: none;
+}
+
 .mc-font { font-family: 'Press Start 2P', cursive; text-transform: uppercase; }
 
 /* Navegación */
